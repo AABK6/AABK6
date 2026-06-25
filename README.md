@@ -42,5 +42,42 @@ The code here is used to test ideas, structure information, build small tools, a
 
 - LinkedIn: https://be.linkedin.com/in/adrien-abecassis
 - Paris Peace Forum: https://parispeaceforum.org/our-team/
-- Website: coming soon
-- Publications: coming soon
+- Publications: [See below](#recent-publications)
+
+## Recent publications
+
+### [La géo-ingénierie est une idée dangereuse que nous ne pouvons plus éluder](https://legrandcontinent.eu/fr/2026/06/23/geo-ingenierie-une-idee-dangereuse-que-nous-ne-pouvons-plus-eluder/)
+*Le Grand Continent, June 2026*
+
+<img src="images/geoingenierie.png" width="450" alt="Géo-ingénierie" />
+
+An analysis of the geopolitical stakes, global governance challenges, and existential risks of solar radiation modification as a response to climate change.
+
+### [L'homme devant la machine : Babel, Jérusalem et les machines](https://nouvellerevuepolitique.fr/adrien-abecassis-lhomme-devant-la-machine-babel-jerusalem-et-les-machines/)
+*La Nouvelle Revue Politique, June 2026*
+
+<img src="images/homme_machine.jpg" width="450" alt="L'homme devant la machine" />
+
+A philosophical and historical essay on how artificial intelligence challenges our definition of humanity and the human condition.
+
+### [Une lecture des municipales - premier tour](https://www.linkedin.com/pulse/une-lecture-des-municipales-premier-tour-adrien-abecassis-esgue/?trackingId=JAHjBYsRtoLQYpqFV0Ublg%3D%3D)
+*LinkedIn Pulse, March 2026*
+
+<img src="images/municipales_linkedin.jpg" width="450" alt="Une lecture des municipales" />
+
+A critical analysis of the national political bias often applied to local French municipal elections.
+
+### [Greenland: Three Scenarios for Europe Facing a Predatory Ally](https://institutdelors.eu/en/publications/greenland-three-scenarios-for-europe-facing-a-predatory-ally/)
+*Jacques Delors Institute, January 2026*
+
+<img src="images/greenland_delors.jpg" width="450" alt="Greenland Study" />
+
+A policy paper outlining three strategic scenarios for European autonomy in response to US diplomatic and economic pressure over Greenland.
+
+### [Voulons-nous que l’IA soit un marché de dépendances ou une infrastructure de liberté ?](https://www.lemonde.fr/idees/article/2025/10/28/adrien-abecassis-diplomate-voulons-nous-que-l-ia-soit-un-marche-de-dependances-ou-une-infrastructure-de-liberte_6649914_3232.html)
+*Le Monde, October 2025*
+
+<img src="images/ia_lemonde.jpg" width="450" alt="Souveraineté de l'IA" />
+
+An op-ed calling for shared AI sovereignty to prevent global dependencies on US or Chinese tech giants.
+
