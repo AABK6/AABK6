@@ -142,6 +142,12 @@ This document lists books, academic papers, policy reports, essays, op-eds, poli
     *   *Link:* [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/europe-la-crise-de-la-cinquantaine/)
     *   *Thesis/Topic:* Explores the institutional and political crisis of the European Union on its fiftieth anniversary, proposing reforms to restore trust and efficacy.
 
+*   **La délocalisation du traitement de l'asile et les centres d'accueil de réfugiés hors de l'UE** (July 2005)
+    *   *Platform:* Migreurop
+    *   *Author:* Adrien Abécassis
+    *   *Links:* [Migreurop](https://migreurop.org/article903.html) | [Wayback Machine archive](https://web.archive.org/web/20250804092223/http://migreurop.org/article903.html)
+    *   *Thesis/Topic:* Analyzes European proposals to externalize asylum processing and refugee reception outside the EU, assessing their legal and political implications.
+
 ---
 
 ## 5. Op-Eds, Columns, Public Commentary & Policy Notes
@@ -163,6 +169,18 @@ This document lists books, academic papers, policy reports, essays, op-eds, poli
     *   *Co-Author:* Chloé Morin
     *   *Link:* [Les Échos](https://www.lesechos.fr/idees-debats/cercle/opinion-covid-faudra-t-il-vacciner-les-peres-noel-1268717)
     *   *Thesis/Topic:* Analyzes the political choices involved in COVID-19 vaccination prioritization and argues that the government should present its vaccination strategy early enough for public opinion to absorb it.
+
+*   **Demain, un vaccin universel ?** (November 12, 2020)
+    *   *Platform:* *Marianne* (Tribune)
+    *   *Author:* Adrien Abécassis
+    *   *Links:* [Marianne original URL](https://www.marianne.net/agora/tribunes-libres/demain-un-vaccin-universel) | [Wayback Machine archive](https://web.archive.org/web/20201113063000/https://www.marianne.net/agora/tribunes-libres/demain-un-vaccin-universel)
+    *   *Thesis/Topic:* Calls for accelerating research and international coordination toward universal vaccines, using the COVID-19 crisis to argue for a broader global health preparedness agenda.
+
+*   **Privacy and the Pandemic: Time for a Digital Bill of Rights** (April 20, 2020)
+    *   *Platform:* *Foreign Policy* (Argument)
+    *   *Co-Authors:* Dipayan Ghosh and Jack Loveridge
+    *   *Link:* [Foreign Policy](https://foreignpolicy.com/2020/04/20/coronavirus-pandemic-privacy-digital-rights-democracy/)
+    *   *Thesis/Topic:* Argues for a democratic digital rights framework to govern the use of personal data and surveillance tools during and after the COVID-19 pandemic.
 
 *   **La crise du coronavirus ébranle aussi l'idée de démocratie et de liberté** (March 26, 2020)
     *   *Platform:* *Le Monde*
@@ -273,6 +291,12 @@ This document lists books, academic papers, policy reports, essays, op-eds, poli
     *   *Link:* [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/paroles-de-francais-la-campagne-va-t-elle-enfin-commencer/)
     *   *Thesis/Topic:* Examines voter disengagement, expectations, and frustration from qualitative survey data during the 2017 presidential campaign.
 
+*   **L'Europe a besoin d'artisans plus que de prophètes** (September 21, 2011)
+    *   *Platform:* *Le Monde* (Idées / Analyse, Fondation Jean-Jaurès)
+    *   *Author:* Adrien Abécassis
+    *   *Links:* [Le Monde original URL](https://www.lemonde.fr/idees/article/2011/09/21/l-europe-a-besoin-d-artisans-plus-que-de-prophetes_1575222_3232.html) | [Wayback Machine archive](https://web.archive.org/web/20110921213104/http://www.lemonde.fr/idees/article/2011/09/21/l-europe-a-besoin-d-artisans-plus-que-de-prophetes_1575222_3232.html)
+    *   *Thesis/Topic:* Argues that Europe's response to crisis should focus less on prophetic institutional reinvention and more on practical, incremental political craftsmanship.
+
 ---
 
 ## 6. Selected Press Citations & Mentions
@@ -288,6 +312,12 @@ This document lists books, academic papers, policy reports, essays, op-eds, poli
     *   *Author:* Audrey Garric
     *   *Links:* [French version](https://www.lemonde.fr/planete/article/2022/05/17/captage-du-carbone-geo-ingenierie-une-commission-mondiale-se-penche-sur-l-impact-du-depassement-climatique-de-1-5-c_6126399_3244.html) | [English version](https://www.lemonde.fr/en/environment/article/2022/05/18/carbon-capture-geoengineering-a-global-climate-commission-focuses-on-the-impact-of-exceeding-1-5-c_5983851_114.html)
     *   *Mention:* Quotes Adrien Abécassis, director of political initiatives at the Paris Peace Forum, on the need for a robust international political discussion on climate overshoot and geoengineering.
+
+*   **Le printemps arabe réveille la diplomatie française** (October 12, 2011)
+    *   *Publication:* *Le Figaro*
+    *   *Author:* Alain Barluet
+    *   *Links:* [Le Figaro](https://www.lefigaro.fr/international/2011/10/11/01003-20111011ARTFIG00804-le-printemps-arabe-reveille-la-diplomatie-francaise.php) | [Wayback Machine archive](https://web.archive.org/web/20111012224819/http://www.lefigaro.fr:80/international/2011/10/11/01003-20111011ARTFIG00804-le-printemps-arabe-reveille-la-diplomatie-francaise.php)
+    *   *Mention:* Quotes Adrien Abécassis, then a diplomat seconded to the Fondation Jean-Jaurès, on the need to treat emerging religious-political movements in the Arab world as full interlocutors after the Arab Spring.
 
 *   **Une planète sans pilote** (August 26, 2011)
     *   *Publication:* *Le Figaro*
