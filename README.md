@@ -42,7 +42,7 @@ The code here is used to test ideas, structure information, build small tools, a
 
 - LinkedIn: https://be.linkedin.com/in/adrien-abecassis
 - Paris Peace Forum: https://parispeaceforum.org/our-team/
-- Publications: [See below](#recent-publications)
+- Publications: [Complete list (2006–2026)](publications.md) or see [recent publications](#recent-publications) below
 
 ## Recent publications
 
