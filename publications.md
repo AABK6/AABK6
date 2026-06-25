@@ -87,9 +87,9 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
     *   *Link:* [Les Échos](https://www.lesechos.fr/idees-debats/cercle/opinion-sommet-nutrition-for-growth-mobilisons-nous-contre-la-malnutrition-2207908)
     *   *Thesis/Topic:* Appeals for international mobilization and political commitments against malnutrition ahead of the N4G summit in France.
 *   **The climate and development nexus** (September 16, 2023)
-    *   *Platform:* Medium / Paris Peace Forum
+    *   *Platform:* Sciences Po Chair on Sovereign Debt / Paris Peace Forum
     *   *Co-Authors:* Adrien Abecassis, Rabah Arezki, and Jean-Pierre Landau
-    *   *Link:* [Medium Article Link](https://medium.com/@ParisPeaceForum/the-climate-and-development-nexus-ad8f3b1451f2)
+    *   *Link:* [Sciences Po Policy Brief (PDF)](https://www.sciencespo.fr/chair-sovereign-debt/files/Policy-Brief-Climate.pdf)
     *   *Thesis/Topic:* Discusses the alignment between development funding and decarbonization in low-income countries, calling for global financial system reforms and multilateral development bank expansion.
 *   **L'imaginaire de l'avenir et les technologies** (January-March 2022)
     *   *Platform:* *Revue politique et parlementaire* (Issue 1102)
@@ -204,18 +204,4 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
         *   [Paroles de Français : en marche, sans oublier personne ?](https://www.jean-jaures.org/publication/paroles-de-francais-en-marche-sans-oublier-personne/) (June 19, 2017)
         *   [Comment les Français voient Macron : le bénéfice du doute](https://www.jean-jaures.org/publication/comment-les-francais-voient-macron-le-benefice-du-doute/) (June 1, 2017)
         *   [Paroles de Français : « La campagne va-t-elle enfin commencer !? »](https://www.jean-jaures.org/publication/paroles-de-francais-la-campagne-va-t-elle-enfin-commencer/) (March 20, 2017)
-*   **Le Figaro / FigaroVox (Geopolitical & Policy Columns)** (Regular Contributor)
-    *   *Platform:* *Le Figaro* / *FigaroVox*
-    *   *Thesis/Topic:* Essays and columns addressing European integration, post-Brexit defense strategies, transatlantic relations, and French foreign policy debates.
-    *   *Links:* [Le FigaroVox Portal](https://www.lefigaro.fr/vox)
-*   **Les Échos (Expert Tribunes)** (Regular Contributor)
-    *   *Platform:* *Les Échos*
-    *   *Thesis/Topic:* Commentaries and analyses focused on global governance challenges, development finance, public health coordination, and international climate mobilization.
-    *   *Links:*
-        *   [Sommet "Nutrition for Growth" : "Mobilisons-nous contre la malnutrition"](https://www.lesechos.fr/idees-debats/cercle/opinion-sommet-nutrition-for-growth-mobilisons-nous-contre-la-malnutrition-2207908) (March 24, 2025)
-*   **Marianne and Front Populaire (Geopolitical & Intellectual Essays)** (Regular Contributor)
-    *   *Platform:* *Marianne*, *Front Populaire*
-    *   *Thesis/Topic:* Contributions addressing the crisis of democratic institutions, the governance of technological risks, and European strategic autonomy.
-    *   *Links:*
-        *   [Marianne Contributor Section](https://www.marianne.net/auteur/adrien-abecassis)
-        *   [Front Populaire Contributor Section](https://frontpopulaire.fr/profil/adrien-abecassis)
+
