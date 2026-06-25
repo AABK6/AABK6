@@ -9,7 +9,7 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
 *   **Continuer l'histoire** (2007)
     *   *Co-Authors:* Hubert Védrine (with the collaboration of Adrien Abécassis and Mohamed Bouabdallah)
     *   *Publisher:* Fayard (2007); Pocket edition by Flammarion (2008)
-    *   *Link:* [Cairn.info Book Page](https://www.cairn.info/continuer-l-histoire--9782213632087.htm)
+    *   *Link:* [Google Books Page](https://books.google.com/books/about/Continuer_l_histoire.html?id=RkQPAQAAMAAJ)
     *   *Thesis/Topic:* A geopolitical essay arguing that the West prematurely declared victory for its models post-Cold War, calling for a pragmatic and realistic French and European foreign policy in a multipolar world. (Published in English as *History Strikes Back*).
 
 ---
@@ -20,17 +20,17 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
     *   *Journal:* *Poetics* (Elsevier, Vol. 88)
     *   *Co-Authors:* Bo Yun Park and Manon Revel
     *   *Link:* [Poetics Journal (DOI)](https://doi.org/10.1016/j.poetic.2021.101597)
-    *   *Thesis/Topic:* Uses computational text analysis and surveys to analyze media resonance, defining it as a process of subjective audience appropriation (problem-solving, aggravating, or generating).
+    *   *Thesis/Topic:* Uses computational text analysis of media coverage alongside weekly surveys in France to analyze how audiences retain and appropriate news messages, defining resonance as a subjective process categorized into problem-solving, problem-aggravating, or problem-generating resonance.
 *   **Five priorities for universal COVID-19 vaccination** (July 24, 2021)
     *   *Journal:* *The Lancet* (Vol. 398, Issue 10297)
     *   *Author:* Adrien Abecassis
     *   *Link:* [The Lancet Page (DOI)](https://doi.org/10.1016/S0140-6736(21)01371-4)
-    *   *Thesis/Topic:* Proposes policy actions (dose sharing, lifting exports, expanding local manufacturing) to address global vaccine inequity.
+    *   *Thesis/Topic:* Outlines five key policy priorities (global dose sharing, lifting export restrictions, scaling manufacturing capacity, improving regional surveillance, and securing long-term financing) to address global vaccine inequity.
 *   **La coopération militaire franco-britannique après le Brexit** (Winter 2020)
     *   *Journal:* *Politique étrangère* (IFRI via Cairn.info, Vol. 2020/4)
     *   *Co-Author:* Jolyon Howorth
     *   *Link:* [Cairn.info Article Page](https://www.cairn.info/revue-politique-etrangere-2020-4-page-55.htm)
-    *   *Thesis/Topic:* Assesses the post-Brexit strategic imperative of bilateral defense and security cooperation between Paris and London.
+    *   *Thesis/Topic:* Assesses the post-Brexit strategic imperative of bilateral defense and security cooperation between Paris and London, analyzing how changes in U.S. foreign policy and bilateral tensions affect European security.
 
 ---
 
@@ -39,28 +39,28 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
 *   **A Blueprint for Multinational Advanced AI Development** (November 2025)
     *   *Publisher/Platform:* Oxford Martin AI Governance Initiative / Paris Peace Forum / Mila
     *   *Co-Authors:* Adrien Abécassis (lead author) alongside international experts (including Yoshua Bengio and Philipp Hacker)
-    *   *Link:* [Zenodo DOI](https://doi.org/10.5281/zenodo.17625842)
-    *   *Thesis/Topic:* Proposes a multinational R&D partnership (resembling CERN/Airbus) to pool compute, data, and talent for building competitive frontier AI models aligned with democratic values and strategic autonomy.
+    *   *Link:* [Zenodo DOI](https://doi.org/10.5281/zenodo.18237550)
+    *   *Thesis/Topic:* Proposes a multinational R&D partnership (resembling CERN or Airbus) among mid-sized "AI bridge powers" to pool compute, data, and talent to build competitive frontier AI models and preserve technological sovereignty.
 *   **Greenland: Three Scenarios for Europe Facing a Predatory Ally** (January 15, 2026)
     *   *Publisher/Platform:* Jacques Delors Institute (Policy Brief)
     *   *Author:* Adrien Abécassis
     *   *Link:* [Jacques Delors Institute](https://institutdelors.eu/en/publications/greenland-three-scenarios-for-europe-facing-a-predatory-ally/)
-    *   *Thesis/Topic:* Explores the strategic and territorial implications for Europe under hypothetical U.S. pressure to annex Greenland, proposing three scenarios for European autonomy.
+    *   *Thesis/Topic:* Analyzes Europe's strategic options in response to a hypothetical U.S. push to annex or control Greenland under a second Trump administration, outlining three scenarios: inaction (an "Arctic Munich"), confrontation, and preventive defense.
 *   **Global Governance of Artificial Intelligence** (September 2024)
     *   *Publisher/Platform:* Centre on Regulation in Europe (CERRE)
     *   *Author:* Adrien Abecassis
     *   *Link:* [CERRE Publications](https://cerre.eu/publications/global-governance-of-artificial-intelligence/)
-    *   *Thesis/Topic:* Proposes a shared global governance framework to assess capabilities, ensure equitable access, and mitigate risks of AI amidst geopolitical fragmentation.
+    *   *Thesis/Topic:* Proposes a shared global governance framework for AI focused on three critical functions: shared assessment of capabilities and risks, equitable access and benefits, and safety risk mitigation.
 *   **Enabling Responsible U.S. Leadership on Global AI Regulation** (June 25, 2021)
     *   *Publisher/Platform:* Day One Project (Federation of American Scientists)
-    *   *Co-Authors:* Adrien Abecassis, Dipayan Ghosh, Jack Loveridge, and Elina Noor
+    *   *Co-Authors:* Adrien Abecassis, Dipayan Ghosh, Jake Loveridge, and Elina Noor
     *   *Link:* [Day One Project Memo](https://fas.org/publication/enabling-responsible-u-s-leadership-on-global-ai-regulation/)
-    *   *Thesis/Topic:* Urges the U.S. administration to champion a collective digital rights agenda and engage in multilateral forums to establish global AI governance principles.
+    *   *Thesis/Topic:* Urges the U.S. administration to champion a collective digital rights agenda and engage in multilateral forums to establish global AI governance principles, with special attention to technological impacts in the developing world.
 *   **Breaking the Ice: How France and the UK Could Reshape a Credible European Defense and Renew the Transatlantic Partnership** (May 2020)
     *   *Publisher/Platform:* Belfer Center for Science and International Affairs, Harvard Kennedy School
     *   *Co-Author:* Jolyon Howorth
     *   *Link:* [Belfer Center Report Page](https://www.belfercenter.org/publication/breaking-ice-how-france-and-uk-could-reshape-credible-european-defense-and-renew)
-    *   *Thesis/Topic:* Recommends a structured, post-Brexit military and strategic partnership between France and the United Kingdom to anchor European security.
+    *   *Thesis/Topic:* Recommends a structured, post-Brexit military and strategic partnership between France and the United Kingdom to anchor European security and renew the broader transatlantic relationship.
 
 ---
 
@@ -70,12 +70,12 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
     *   *Platform:* *La Nouvelle Revue Politique*
     *   *Author:* Adrien Abécassis
     *   *Link:* [La Nouvelle Revue Politique](https://nouvellerevuepolitique.fr/adrien-abecassis-lhomme-devant-la-machine-babel-jerusalem-et-les-machines/)
-    *   *Thesis/Topic:* Uses metaphors of Babel and Jerusalem to examine how AI challenges our understanding of human value, power, and truth.
+    *   *Thesis/Topic:* Analyzes the encyclical *Magnifica Humanitas*, using the biblical metaphors of Babel (limitless, technology-driven progress) and Jerusalem (reconstruction of human connection) to discuss how AI challenges the essence of human value, political control, and moral limits.
 *   **La géo-ingénierie est une idée dangereuse que nous ne pouvons plus éluder** (June 23, 2026)
     *   *Platform:* *Le Grand Continent*
     *   *Co-Author:* Pascal Lamy
     *   *Link:* [Le Grand Continent](https://legrandcontinent.eu/fr/2026/06/23/geo-ingenierie-une-idee-dangereuse-que-nous-ne-pouvons-plus-eluder/)
-    *   *Thesis/Topic:* Advocates for a "doctrine of active restraint" (moratorium on deployment alongside regulated research) for solar radiation modification.
+    *   *Thesis/Topic:* Argues for a "doctrine of active restraint" regarding solar geoengineering (solar radiation modification), proposing a moratorium on deployment alongside internationally regulated public research to manage climate risks.
 *   **Voulons-nous que l’IA soit un marché de dépendances ou une infrastructure de liberté ?** (October 28, 2025)
     *   *Platform:* *Le Monde*
     *   *Author:* Adrien Abécassis
@@ -85,12 +85,12 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
     *   *Platform:* *Les Échos* (Tribune)
     *   *Co-Author:* Shawn Baker
     *   *Link:* [Les Échos](https://www.lesechos.fr/idees-debats/cercle/opinion-sommet-nutrition-for-growth-mobilisons-nous-contre-la-malnutrition-2207908)
-    *   *Thesis/Topic:* Appeals for international mobilization against malnutrition ahead of the N4G summit in France.
+    *   *Thesis/Topic:* Appeals for international mobilization and political commitments against malnutrition ahead of the N4G summit in France.
 *   **The climate and development nexus** (September 16, 2023)
     *   *Platform:* Medium / Paris Peace Forum
     *   *Co-Authors:* Adrien Abecassis, Rabah Arezki, and Jean-Pierre Landau
     *   *Link:* [Medium Article Link](https://medium.com/@ParisPeaceForum/the-climate-and-development-nexus-ad8f3b1451f2)
-    *   *Thesis/Topic:* Discusses alignment between development funding and decarbonization in low-income countries during the Summit for a New Global Financing Pact.
+    *   *Thesis/Topic:* Discusses the alignment between development funding and decarbonization in low-income countries, calling for global financial system reforms and multilateral development bank expansion.
 *   **L'imaginaire de l'avenir et les technologies** (January-March 2022)
     *   *Platform:* *Revue politique et parlementaire* (Issue 1102)
     *   *Author:* Adrien Abécassis
@@ -100,12 +100,12 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
     *   *Platform:* *Le Monde*
     *   *Co-Authors:* Dipayan Ghosh and Jack Loveridge
     *   *Link:* [Le Monde Op-Ed Page](https://www.lemonde.fr/idees/article/2020/03/26/la-crise-du-coronavirus-ebranle-aussi-l-idee-de-democratie-et-de-liberte_6034479_3232.html)
-    *   *Thesis/Topic:* Warns of the potential long-term erosion of civil liberties by digital surveillance tools used during the pandemic.
-*   **Une lecture du premier tour des municipales** (March 16, 2026)
+    *   *Thesis/Topic:* Warns of the long-term threat to civil liberties and democratic norms posed by digital surveillance tools deployed during the COVID-19 pandemic, calling for a global framework for digital rights.
+*   **Une lecture du premier tour des municipales** (March 17, 2026)
     *   *Platform:* LinkedIn Pulse / *La Nouvelle Revue Politique*
     *   *Author:* Adrien Abécassis
     *   *Link:* [La Nouvelle Revue Politique](https://nouvellerevuepolitique.fr/adrien-abecassis-une-lecture-du-premier-tour-des-municipales/) | [LinkedIn Pulse](https://www.linkedin.com/pulse/une-lecture-des-municipales-premier-tour-adrien-abecassis-esgue/?trackingId=JAHjBYsRtoLQYpqFV0Ublg%3D%3D)
-    *   *Thesis/Topic:* Examines electoral turnout and shifts during the March 2026 French municipal elections.
+    *   *Thesis/Topic:* Examines voter participation and metropolitan voting patterns in the March 2026 French municipal elections, arguing against treating local results as a direct preview of presidential elections.
 *   **Hope for a New Transatlantic Relationship** (September 28, 2018)
     *   *Platform:* *Epicenter* (Weatherhead Center, Harvard University)
     *   *Author:* Adrien Abécassis
@@ -114,27 +114,27 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
 *   **De l'Immigration** (January 23, 2018)
     *   *Platform:* *Tocqueville 21*
     *   *Author:* Adrien Abécassis
-    *   *Link:* [Tocqueville 21 Page](https://tocqueville21.com/guest-posts/de-limmigration/)
-    *   *Thesis/Topic:* Critiques the hyper-polarization of migration debates, suggesting it distracts from practical policies for asylum and integration.
+    *   *Link:* [Tocqueville 21 Page](https://tocqueville21.com/le-club/de-limmigration/)
+    *   *Thesis/Topic:* Critiques the recurring and hyper-polarized nature of immigration debates in France, advocating for a pragmatic approach focused on integration and asylum management rather than ideological positioning.
 *   **Turnout and Voter Insecurity in the French Elections** (October 30, 2017)
     *   *Platform:* *Epicenter* (Weatherhead Center, Harvard University)
     *   *Author:* Adrien Abécassis
     *   *Link:* [Epicenter Blog Page](https://epicenter.wcfia.harvard.edu/blog/turnout-and-voter-insecurity-french-elections)
-    *   *Thesis/Topic:* Evaluates the impact of economic insecurity on electoral turnout and political mobilization.
+    *   *Thesis/Topic:* Evaluates the impact of economic vulnerability on electoral turnout and political mobilization during the 2017 French presidential elections.
 *   **L'ordre introuvable du Moyen-Orient** (March 9, 2026)
     *   *Platform:* *La Nouvelle Revue Politique*
     *   *Author:* Adrien Abécassis
     *   *Link:* [La Nouvelle Revue Politique](https://nouvellerevuepolitique.fr/adrien-abecassis-lordre-introuvable-du-moyen-orient/)
-    *   *Thesis/Topic:* Analyzes Middle Eastern order, regional rivalries, and the breakdown of external diplomatic frameworks.
+    *   *Thesis/Topic:* Examines the breakdown of Middle Eastern regional order in 2026, arguing that the instability stems from both a lack of a power equilibrium and a shared framework of legitimacy, exacerbated by rapid technological changes in warfare.
 
 ---
 
 ## 5. Policy Notes & Briefs (Fondation Jean-Jaurès)
 
 *   **Les Français et Emmanuel Macron : premières fissures dans le pacte ?** (September 10, 2017)
-    *   *Co-Authors:* Marie Gariazzo and Chloé Morin
+    *   *Author:* Adrien Abécassis
     *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/les-francais-et-emmanuel-macron-premieres-fissures-dans-le-pacte/)
-    *   *Thesis/Topic:* Analyzes the initial drop in President Macron's popularity and the emerging disconnect between public expectations and executive communication.
+    *   *Thesis/Topic:* Analyzes public opinion BVA data showing the reasons for the drop in Macron's popularity, attributing it to a perceived distance and detachment from the public's expectations.
 *   **Tout commence maintenant** (July 17, 2017)
     *   *Author:* Adrien Abécassis
     *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/tout-commence-maintenant/)
