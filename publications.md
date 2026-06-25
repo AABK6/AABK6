@@ -14,12 +14,32 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
 
 ---
 
-## 2. Policy Reports & Blueprints
+## 2. Academic Journal Articles
+
+*   **Varieties of resonance: The subjective interpretations and utilizations of media output in France** (2021)
+    *   *Journal:* *Poetics* (Elsevier, Vol. 88)
+    *   *Co-Authors:* Bo Yun Park and Manon Revel
+    *   *Link:* [Poetics Journal (DOI)](https://doi.org/10.1016/j.poetic.2021.101597)
+    *   *Thesis/Topic:* Uses computational text analysis and surveys to analyze media resonance, defining it as a process of subjective audience appropriation (problem-solving, aggravating, or generating).
+*   **Five priorities for universal COVID-19 vaccination** (July 24, 2021)
+    *   *Journal:* *The Lancet* (Vol. 398, Issue 10297)
+    *   *Author:* Adrien Abecassis
+    *   *Link:* [The Lancet Page](https://doi.org/10.1016/S0140-6736(21)01550-5)
+    *   *Thesis/Topic:* Proposes policy actions (dose sharing, lifting exports, expanding local manufacturing) to address global vaccine inequity.
+*   **La coopération militaire franco-britannique après le Brexit** (Winter 2020)
+    *   *Journal:* *Politique étrangère* (IFRI via Cairn.info, Vol. 2020/4)
+    *   *Co-Author:* Jolyon Howorth
+    *   *Link:* [Cairn.info Article Page](https://www.cairn.info/revue-politique-etrangere-2020-4-page-55.htm)
+    *   *Thesis/Topic:* Assesses the post-Brexit strategic imperative of bilateral defense and security cooperation between Paris and London.
+
+---
+
+## 3. Policy Reports & Blueprints
 
 *   **A Blueprint for Multinational Advanced AI Development** (November 2025)
     *   *Publisher/Platform:* Oxford Martin AI Governance Initiative / Paris Peace Forum / Mila
-    *   *Co-Authors:* Oxford Martin AI Governance Initiative, Mila, Paris Peace Forum, and international experts (including Yoshua Bengio)
-    *   *Link:* [Zenodo DOI](https://doi.org/10.5281/zenodo.18237550)
+    *   *Co-Authors:* Adrien Abécassis (lead author) alongside international experts (including Yoshua Bengio and Philipp Hacker)
+    *   *Link:* [Zenodo DOI](https://doi.org/10.5281/zenodo.17625842)
     *   *Thesis/Topic:* Proposes a multinational R&D partnership (resembling CERN/Airbus) to pool compute, data, and talent for building competitive frontier AI models aligned with democratic values and strategic autonomy.
 *   **Greenland: Three Scenarios for Europe Facing a Predatory Ally** (January 15, 2026)
     *   *Publisher/Platform:* Jacques Delors Institute (Policy Brief)
@@ -36,21 +56,6 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
     *   *Co-Author:* Jolyon Howorth
     *   *Link:* [Belfer Center Report Page](https://www.belfercenter.org/publication/breaking-ice-how-france-and-uk-could-reshape-credible-european-defense-and-renew)
     *   *Thesis/Topic:* Recommends a structured, post-Brexit military and strategic partnership between France and the United Kingdom to anchor European security.
-
----
-
-## 3. Academic Journal Articles
-
-*   **Varieties of resonance: The subjective interpretations and utilizations of media output in France** (2021)
-    *   *Journal:* *Poetics* (Elsevier, Vol. 88)
-    *   *Co-Authors:* Bo Yun Park and Manon Revel
-    *   *Link:* [Poetics Journal (DOI)](https://doi.org/10.1016/j.poetic.2021.101597)
-    *   *Thesis/Topic:* Uses computational text analysis and surveys to analyze media resonance, defining it as a process of subjective audience appropriation (problem-solving, aggravating, or generating).
-*   **La coopération militaire franco-britannique après le Brexit** (Winter 2020)
-    *   *Journal:* *Politique étrangère* (IFRI via Cairn.info, Vol. 2020/4)
-    *   *Co-Author:* Jolyon Howorth
-    *   *Link:* [Cairn.info Article Page](https://www.cairn.info/revue-politique-etrangere-2020-4-page-55.htm)
-    *   *Thesis/Topic:* Assesses the post-Brexit strategic imperative of bilateral defense and security cooperation between Paris and London.
 
 ---
 
@@ -86,16 +91,6 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
     *   *Author:* Adrien Abécassis
     *   *Link:* [Revue politique et parlementaire (Issue 1102)](https://www.revuepolitique.fr/produit/n-1102-les-imaginaires-leternel-retour/)
     *   *Thesis/Topic:* A study of technology and how it shapes our collective imagination and vision of the future.
-*   **Five priorities for universal COVID-19 vaccination** (July 24, 2021)
-    *   *Journal:* *The Lancet* (Vol. 398, Issue 10297)
-    *   *Author:* Adrien Abecassis
-    *   *Link:* [The Lancet Page](https://doi.org/10.1016/S0140-6736(21)01550-5)
-    *   *Thesis/Topic:* Proposes policy actions (dose sharing, lifting exports, expanding local manufacturing) to address global vaccine inequity.
-*   **COVAX : l’Europe à l’épreuve de la solidarité vaccinale mondiale** (April 19, 2021)
-    *   *Platform:* Jacques Delors Institute
-    *   *Author:* Adrien Abécassis
-    *   *Link:* [Jacques Delors Institute Page](https://institutdelors.eu/publications/covax-leurope-a-lepreuve-de-la-solidarite-vaccinale-mondiale/)
-    *   *Thesis/Topic:* Explores the geopolitical and economic risks associated with global vaccine distribution and Europe's role in the COVAX initiative.
 *   **La crise du coronavirus ébranle aussi l'idée de démocratie et de liberté** (March 26, 2020)
     *   *Platform:* *Le Monde*
     *   *Co-Authors:* Dipayan Ghosh and Jack Loveridge
@@ -105,7 +100,7 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
     *   *Platform:* LinkedIn Pulse / *La Nouvelle Revue Politique*
     *   *Author:* Adrien Abécassis
     *   *Link:* [LinkedIn Pulse](https://www.linkedin.com/pulse/une-lecture-des-municipales-premier-tour-adrien-abecassis-esgue/?trackingId=JAHjBYsRtoLQYpqFV0Ublg%3D%3D)
-    *   *Thesis/Topic:* Examines electoral turnout and shifts during the March 2020 French municipal elections at the start of the pandemic.
+    *   *Thesis/Topic:* Examines electoral turnout and shifts during the March 2020 French municipal elections at the onset of the pandemic.
 *   **Hope for a New Transatlantic Relationship** (September 28, 2018)
     *   *Platform:* *Epicenter* (Weatherhead Center, Harvard University)
     *   *Author:* Adrien Abécassis
