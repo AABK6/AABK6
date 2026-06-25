@@ -129,55 +129,101 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
 
 ---
 
-## 5. Policy Notes & Briefs (Fondation Jean-Jaurès)
+## 5. Policy Notes & Briefs (Fondation Jean-Jaurès / Multi-platform)
 
-*   **Les Français et Emmanuel Macron : premières fissures dans le pacte ?** (September 10, 2017)
+*   **Les Français et Emmanuel Macron : un pays en voie de polarisation ?** (September 30, 2017)
     *   *Author:* Adrien Abécassis
-    *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/les-francais-et-emmanuel-macron-premieres-fissures-dans-le-pacte/)
+    *   *Links:* [Le Nouvel Observateur](http://tempsreel.nouvelobs.com/politique/20170929.OBS5345/les-francais-et-emmanuel-macron-un-pays-en-voie-de-polarisation.html)
+    *   *Thesis/Topic:* Third wave of BVA/Jean-Jaurès tracking on Macron's presidency, documenting an accelerating political polarization of French public opinion after summer 2017 social reforms.
+
+*   **Les Français et Emmanuel Macron : premières fissures dans le pacte** (September 10, 2017)
+    *   *Author:* Adrien Abécassis
+    *   *Links:* [Le Nouvel Observateur](http://tempsreel.nouvelobs.com/politique/20170906.OBS4326/comment-les-francais-voient-macron-il-communique-beaucoup-mais-est-peu-communicatif.html) | [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/les-francais-et-emmanuel-macron-premieres-fissures-dans-le-pacte/)
     *   *Thesis/Topic:* Analyzes public opinion BVA data showing the reasons for the drop in Macron's popularity, attributing it to a perceived distance and detachment from the public's expectations.
+
+*   **Les Français et Emmanuel Macron : le temps des premières questions** (July 27, 2017)
+    *   *Author:* Adrien Abécassis
+    *   *Links:* [BVA Group](http://www.bva-group.com/sondages/francais-emmanuel-macron-temps-premieres-questions) | [Le Nouvel Observateur](http://tempsreel.nouvelobs.com/politique/20170817.OBS3485/les-francais-et-macron-le-temps-des-premieres-questions.html)
+    *   *Thesis/Topic:* Second wave of BVA/Jean-Jaurès tracking on Macron's presidency, charting the first signs of public impatience and expectation management challenges facing the new government.
+
 *   **Tout commence maintenant** (July 17, 2017)
     *   *Author:* Adrien Abécassis
-    *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/tout-commence-maintenant/)
-    *   *Thesis/Topic:* Evaluates the strategic challenges facing the newly elected parliamentary majority and the risks of social fragmentation in France.
-*   **État de l'opinion face au nouveau pouvoir** (July 15, 2017)
-    *   *Co-Authors:* Marie Gariazzo and Chloé Morin
-    *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/etat-de-lopinion-face-au-nouveau-pouvoir/)
+    *   *Links:* [HuffPost](http://www.huffingtonpost.fr/adrien-abecassis/criteres-francais-jugeront-quinquennat-emmanuel-macron_a_23039607/) | [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/tout-commence-maintenant/)
+    *   *Thesis/Topic:* Evaluates the criteria by which French citizens will judge the Macron presidency, and the strategic challenges facing the newly elected parliamentary majority.
+
+*   **Les Français attendent d'Emmanuel Macron une ligne claire et des actions / État de l'opinion face au nouveau pouvoir** (July 15, 2017)
+    *   *Co-Authors:* Adrien Abécassis, Marie Gariazzo, and Chloé Morin
+    *   *Links:* [HuffPost (Chloé Morin)](http://www.huffingtonpost.fr/chloe-morin/4-signes-qui-montrent-que-les-francais-attendent-demmanuel-macr_a_23031171/) | [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/etat-de-lopinion-face-au-nouveau-pouvoir/)
     *   *Thesis/Topic:* Assesses public opinion trends and trust in state institutions immediately following the 2017 presidential and legislative elections.
+
 *   **Enseignement de la loi travail 1 : l'importance du cadrage initial** (July 13, 2017)
     *   *Co-Author:* Chloé Morin
-    *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/enseignement-de-la-loi-travail-1-limportance-du-cadrage-initial/)
-    *   *Thesis/Topic:* Examines the communication framing and public reception of the French labor law reforms.
+    *   *Link:* [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/enseignement-de-la-loi-travail-1-limportance-du-cadrage-initial/)
+    *   *Thesis/Topic:* Examines the communication framing and public reception of the French labor law reforms, drawing lessons from the first loi travail debate.
+
+*   **La méthode Macron plaît aux Français, ils attendent maintenant d'être convaincus par son action** (June 28, 2017)
+    *   *Author:* Adrien Abécassis
+    *   *Links:* [HuffPost (Chloé Morin)](http://www.huffingtonpost.fr/chloe-morin/la-methode-macron-plait-au-francais-ils-attendent-maintenant-d_a_23004109/) | [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/la-methode-macron-plait-aux-francais-ils-attendent-maintenant-detre-convaincus-par/)
+    *   *Thesis/Topic:* First wave of BVA/Jean-Jaurès tracking on Macron's presidency, showing approval for his governing style while documenting an expectation of concrete results.
+
+*   **Comment les Français voient Macron : entre bienveillance et vigilance / Paroles de Français : en marche, sans oublier personne ?** (June 24, 2017)
+    *   *Co-Author:* Adélaïde Zulfikarpasic
+    *   *Links:* [Le Nouvel Observateur](http://tempsreel.nouvelobs.com/politique/20170623.OBS1112/entre-bienveillance-et-vigilance-comment-les-francais-voient-macron.html) | [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/paroles-de-francais-en-marche-sans-oublier-personne/)
+    *   *Thesis/Topic:* Explores public perceptions of social and economic justice at the beginning of the Macron presidency, documenting guarded optimism mixed with vigilance.
+
 *   **Enseignement de la loi travail 1 : une approbation majoritaire ne présage rien de la suite** (June 20, 2017)
     *   *Co-Author:* Chloé Morin
-    *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/enseignement-de-la-loi-travail-1-une-approbation-majoritaire-ne-presage-rien-de-la-suite/)
+    *   *Link:* [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/enseignement-de-la-loi-travail-1-une-approbation-majoritaire-ne-presage-rien-de-la-suite/)
     *   *Thesis/Topic:* Explains how initial polling numbers on reforms can be misleading and how public opposition often crystallizes during legislative application.
-*   **Paroles de Français : en marche, sans oublier personne ?** (June 19, 2017)
-    *   *Co-Author:* Adélaïde Zulfikarpasic
-    *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/paroles-de-francais-en-marche-sans-oublier-personne/)
-    *   *Thesis/Topic:* Explores public perceptions of social and economic justice at the beginning of the Macron presidency.
-*   **PS et LR : des étiquettes politiques dévitalisées** (June 15, 2017)
+
+*   **Tirer les leçons de la première loi travail pour réussir la seconde** (June 15, 2017)
+    *   *Author:* Adrien Abécassis
+    *   *Link:* [Les Échos](https://www.lesechos.fr/idees-debats/cercle/030387033773-tirer-les-lecons-de-la-premiere-loi-travail-pour-reussir-la-seconde-2094801.php)
+    *   *Thesis/Topic:* Draws lessons from the communication and mobilization failures of the first Khomri labor law to anticipate challenges facing the new government's labor reform agenda.
+
+*   **Le PS et LR, des étiquettes politiques dévitalisées ?** (June 15, 2017)
     *   *Co-Authors:* Chloé Morin and Jean-Daniel Lévy
-    *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/ps-et-lr-des-etiquettes-politiques-devitalisees/)
+    *   *Links:* [Paris Match](http://www.parismatch.com/Actu/Politique/Le-PS-et-LR-des-etiquettes-politiques-devitalisees-1285286) | [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/ps-et-lr-des-etiquettes-politiques-devitalisees/)
     *   *Thesis/Topic:* Investigates the structural decline and loss of political identity of France's traditional governing parties.
+
+*   **Pas d'état de grâce pour le gouvernement, mais un « état d'attente »** (June 2, 2017)
+    *   *Author:* Adrien Abécassis
+    *   *Link:* [Paris Match](http://www.parismatch.com/Actu/Politique/Pas-d-etat-de-grace-pour-le-gouvernement-mais-un-etat-d-attente-1275626)
+    *   *Thesis/Topic:* Challenges the notion of a presidential honeymoon period, arguing that the French public enters into a watchful wait rather than unconditional support for the new government.
+
 *   **Comment les Français voient Macron : le bénéfice du doute** (June 1, 2017)
     *   *Co-Author:* Adélaïde Zulfikarpasic
-    *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/comment-les-francais-voient-macron-le-benefice-du-doute/)
-    *   *Thesis/Topic:* Analyzes the initial public stance toward the new administration's agenda.
-*   **Comment le triomphe annoncé du Front national n'a pas eu lieu** (May 26, 2017)
+    *   *Links:* [Le Nouvel Observateur](http://tempsreel.nouvelobs.com/politique/20170531.OBS0110/comment-les-francais-voient-macron-le-benefice-du-doute.html) | [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/comment-les-francais-voient-macron-le-benefice-du-doute/)
+    *   *Thesis/Topic:* Analyzes the initial public stance toward the new administration's agenda, characterized by a conditional benefit of the doubt.
+
+*   **Comment le triomphe annoncé de Marine Le Pen n'a pas eu lieu** (May 26, 2017)
     *   *Co-Authors:* Marie Gariazzo and Chloé Morin
-    *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/comment-le-triomphe-annonce-du-front-national-na-pas-eu-lieu/)
+    *   *Links:* [Paris Match](http://www.parismatch.com/Actu/Politique/Comment-le-triomphe-annonce-de-Marine-Le-Pen-n-a-pas-eu-lieu-1270082) | [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/comment-le-triomphe-annonce-du-front-national-na-pas-eu-lieu/)
     *   *Thesis/Topic:* Identifies the voter motivations and societal dynamics that limited the far-right's electoral margins in the 2017 elections.
+
+*   **Paroles de Français : et la campagne replongea…** (April 4, 2017)
+    *   *Author:* Adrien Abécassis
+    *   *Links:* [Les Échos](https://www.lesechos.fr/04/04/2017/LesEchos/22418-034-ECH_paroles-de-francais---et-la-campagne-replongea---.htm)
+    *   *Thesis/Topic:* Chronicles a moment of renewed turbulence and disillusionment in the 2017 presidential election campaign, as scandals and upheavals re-energized an otherwise disengaged electorate.
+
+*   **Présidentielle : la campagne que veulent les Français** (March 20, 2017)
+    *   *Author:* Adrien Abécassis
+    *   *Links:* [Les Échos](https://www.lesechos.fr/20/03/2017/LesEchos/22407-043-ECH_presidentielle---la-campagne-que-veulent-les-francais.htm)
+    *   *Thesis/Topic:* Examines voter disengagement and frustration during the 2017 presidential election campaign, arguing for a more substantive and issue-focused campaign.
+
 *   **Paroles de Français : « La campagne va-t-elle enfin commencer !? »** (March 20, 2017)
     *   *Co-Author:* Chloé Morin
-    *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/paroles-de-francais-la-campagne-va-t-elle-enfin-commencer/)
-    *   *Thesis/Topic:* Examines voter disengagement and frustration during the 2017 presidential election campaign.
+    *   *Link:* [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/paroles-de-francais-la-campagne-va-t-elle-enfin-commencer/)
+    *   *Thesis/Topic:* Examines voter disengagement, expectations, and frustration from qualitative survey data during the 2017 presidential campaign.
+
 *   **Le monde en face : contribution au Livre blanc sur la politique étrangère de la France** (September 9, 2008)
     *   *Co-Author:* Henri Nallet
-    *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/le-monde-en-face-contribution-au-livre-blanc-sur-la-politique-etrangere-de-la-france/)
+    *   *Link:* [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/le-monde-en-face-contribution-au-livre-blanc-sur-la-politique-etrangere-de-la-france/)
     *   *Thesis/Topic:* Proposes strategic guidelines for French diplomacy and European defense integration in a rapidly shifting multipolar world order.
+
 *   **Europe : la crise de la cinquantaine ?** (July 2, 2007)
     *   *Author:* Adrien Abécassis
-    *   *Link:* [Jean-Jaurès Foundation Page](https://www.jean-jaures.org/publication/europe-la-crise-de-la-cinquantaine/)
+    *   *Link:* [Jean-Jaurès Foundation](https://www.jean-jaures.org/publication/europe-la-crise-de-la-cinquantaine/)
     *   *Thesis/Topic:* Explores the institutional and political crisis of the European Union on its fiftieth anniversary, proposing reforms to restore trust and efficacy.
 
 ---
@@ -194,14 +240,5 @@ This document lists books, academic papers, policy reports, essays, op-eds, and 
 
 ## 7. Media Columns & Collaborative Series
 
-*   **L'Obs / Le Nouvel Observateur (Collaborative Opinion Series)** (2017)
-    *   *Platform:* *L'Obs* / *Le Nouvel Observateur* (in partnership with BVA and the Jean-Jaurès Foundation)
-    *   *Thesis/Topic:* Analyzes public opinion trends, political realignment, and electoral shifts in France, specifically focusing on the rise of Emmanuel Macron and the erosion of traditional political parties.
-    *   *Links:*
-        *   [Les Français et Emmanuel Macron : premières fissures dans le pacte ?](https://www.jean-jaures.org/publication/les-francais-et-emmanuel-macron-premieres-fissures-dans-le-pacte/) (September 10, 2017)
-        *   [Tout commence maintenant](https://www.jean-jaures.org/publication/tout-commence-maintenant/) (July 17, 2017)
-        *   [État de l'opinion face au nouveau pouvoir](https://www.jean-jaures.org/publication/etat-de-lopinion-face-au-nouveau-pouvoir/) (July 15, 2017)
-        *   [Paroles de Français : en marche, sans oublier personne ?](https://www.jean-jaures.org/publication/paroles-de-francais-en-marche-sans-oublier-personne/) (June 19, 2017)
-        *   [Comment les Français voient Macron : le bénéfice du doute](https://www.jean-jaures.org/publication/comment-les-francais-voient-macron-le-benefice-du-doute/) (June 1, 2017)
-        *   [Paroles de Français : « La campagne va-t-elle enfin commencer !? »](https://www.jean-jaures.org/publication/paroles-de-francais-la-campagne-va-t-elle-enfin-commencer/) (March 20, 2017)
+*All 2017 public opinion tracking articles (L'Obs, Paris Match, HuffPost, BVA, Les Échos, Jean-Jaurès Foundation) are listed in full in Section 5 above.*
 
